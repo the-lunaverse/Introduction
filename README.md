@@ -1,10 +1,10 @@
 ### Hola, I'm Armando 👋
 
-- 🔭 I’m currently working on Natural Language Processing
-- 🌱 I’m currently learning about Nanomaterials ...
-- 👯 I’m looking to collaborate o...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ML Classification Model
+- 🌱 I’m currently learning about Nanomaterials 
+- 👯 I’m always ooking to collaborate 
+- 🤔 I’m looking for new opportunities
+- 💬 Ask me about about anything, I love to conversate
 - 📫 How to reach me: [Twitter - @thee_lunaverse](https://twitter.com/thee_lunaverse), [LinkedIn - @luna-armando](https://www.linkedin.com/in/luna-armando/)
 - ⚡ Fun fact: I love to practice Brazilian Jiu Jitsu (BJJ)
 
