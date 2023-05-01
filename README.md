@@ -1,8 +1,7 @@
 ### Hola, I'm Armando 👋
 
 - 🔭 I’m currently working on ML Classification Model
-- 🌱 I’m currently learning about Nanomaterials 
-- 👯 I’m always looking to collaborate 
+- 🙋🏽‍♂️ I’m always looking to collaborate 
 - 🤔 I’m looking for new opportunities
 - 💬 Ask me about about anything, I love to conversate
 - 📫 How to reach me: [Twitter - @thee_lunaverse](https://twitter.com/thee_lunaverse), [LinkedIn - @luna-armando](https://www.linkedin.com/in/luna-armando/)
