@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ML Classification Model
 - 🙋🏽‍♂️ I’m always looking to collaborate 
-- 🤔 I’m looking for new opportunities
+- 🤔 Feel free to explore some projects I have completed [Project Portfolio](the-lunaverse.github.io/Armando-Luna/)
 - 💬 Ask me about about anything, I love to conversate
 - 📫 How to reach me:[LinkedIn - @luna-armando](https://www.linkedin.com/in/luna-armando/)
 - ⚡ Fun fact: I love to practice Brazilian Jiu Jitsu (BJJ)
